@@ -15,6 +15,12 @@ h1 {
 	color: #e2dbdb;
 }
 
+
+.buffer {
+	height: 10rem;
+}
+
+
 .btn-xl {
 	padding: 1rem 2rem;
 	background-color: orange;
@@ -32,6 +38,7 @@ h1 {
 	font-family: 'Montserrat', sans-serif;
 	color: orange;
 }
+
 
 hr {
 	border-color: orange;
